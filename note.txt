@@ -1,2 +1,4 @@
 > https://expo.github.io/router/docs/  >  npx create-expo-app@latest --example with-router ./  >  npm install -g expo-cli  >  npx expo start | expo-cli start --tunnel >  
 > 
+
+https://www.youtube.com/watch?v=mJ3bGvy0WAY&t=7095s
